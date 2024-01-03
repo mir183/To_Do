@@ -1,0 +1,4 @@
+"Exceptionally user-friendly ToDo app! 
+The clean interface makes adding, removing, and managing tasks a breeze.
+Seamless integration of Qt and C++ ensures efficiency. 
+A must-have for streamlined task organization."
